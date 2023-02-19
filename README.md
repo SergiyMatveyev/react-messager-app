@@ -2,10 +2,10 @@
 
 ## Technologies
 
-React
-Typescript
-Axios
-Firebase Google and Facebook auth
+React,
+Typescript,
+Axios,
+Firebase Google and Facebook auth,
 [Chat engine](https://chatengine.io)
 
 ## Available Scripts
